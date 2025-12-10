@@ -208,3 +208,8 @@ __marimo__/
 
 src/data/
 src/output/
+
+# macOS system files
+.DS_Store
+*.DS_Store
+__MACOSX/
